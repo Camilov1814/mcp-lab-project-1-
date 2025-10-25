@@ -190,6 +190,8 @@ Obtiene el estado de un pedido específico por su ID.
 ```
 ¿Cuál es el estado del pedido #5?
 ```
+<img width="927" height="476" alt="imagen" src="https://github.com/user-attachments/assets/cb82e542-ade2-4caa-b46b-789b9fb220cc" />
+
 
 #### `pedidos_crear`
 Crea un nuevo pedido en el sistema.
@@ -202,6 +204,10 @@ Crea un nuevo pedido en el sistema.
 ```
 Crea un pedido para el cliente "Empresa XYZ" por $15000
 ```
+<img width="938" height="472" alt="imagen" src="https://github.com/user-attachments/assets/f30df289-36c2-401d-b810-9f83fdb85754" />
+
+<img width="1308" height="268" alt="imagen" src="https://github.com/user-attachments/assets/74e70226-c4fa-4f0f-85c7-71ceafd1c475" />
+
 
 #### `pedidos_listar_por_estado`
 Lista todos los pedidos con un estado específico.
@@ -213,6 +219,7 @@ Lista todos los pedidos con un estado específico.
 ```
 Muéstrame todos los pedidos pendientes
 ```
+<img width="917" height="679" alt="imagen" src="https://github.com/user-attachments/assets/b31968ac-d636-4332-addf-2fa10872a1b6" />
 
 ## 🧪 Testing
 
