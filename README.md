@@ -1,5 +1,5 @@
 # Laboratorio MCP: Multi-MCP con Gateway
-
+## Integrantes: Samuel Corrales y Camilo Valencia
 Este proyecto implementa una arquitectura de múltiples servidores MCP (Model Context Protocol) conectados a través de un Gateway, permitiendo que Claude Desktop acceda a herramientas de diferentes servidores a través de una única interfaz.
 
 ## 📋 Descripción
