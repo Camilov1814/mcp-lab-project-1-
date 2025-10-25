@@ -165,6 +165,7 @@ Calcula el total de ventas del mes anterior completo.
 ```
 ¿Cuánto vendimos el mes pasado?
 ```
+<img width="917" height="296" alt="imagen" src="https://github.com/user-attachments/assets/21c6623f-730e-47d2-a321-bb16310d9afe" />
 
 #### `ventas_por_dia`
 Devuelve el total de ventas por día de los últimos n días (por defecto 30).
