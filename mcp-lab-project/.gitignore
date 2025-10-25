@@ -1,0 +1,66 @@
+# Archivos de entorno
+.env
+*.env
+.env.local
+.env.*.local
+
+# Dependencias de Node.js
+node_modules/
+package-lock.json
+yarn.lock
+
+# Archivos compilados de TypeScript
+dist/
+build/
+*.js.map
+
+# Entornos virtuales de Python
+venv/
+env/
+ENV/
+.venv
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Logs
+*.log
+logs/
+mcp_boot.log
+mcp_error.log
+mcp_pedidos_boot.log
+mcp_pedidos_error.log
+ventas_mcp.log
+pedidos_mcp.log
+gateway_mcp.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos temporales
+*.tmp
+*.temp
+.cache/
+
+# Coverage y testing
+coverage/
+.nyc_output/
+*.coverage
+htmlcov/
+
+# Build artifacts
+*.tsbuildinfo

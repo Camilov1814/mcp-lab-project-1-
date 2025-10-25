@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "mcp-gateway": {
+      "command": "node",
+      "args": [
+        "/RUTA/ABSOLUTA/AL/PROYECTO/mcp-lab-project/mcp-gateway/dist/index.js"
+      ],
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}
